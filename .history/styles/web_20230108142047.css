@@ -121,16 +121,7 @@ font-family: Arial, Helvetica, sans-serif;
     text-align:left;
     padding-left: 100px;
 }
-#footerdetails p.text4{
-    color: white;
-    text-align:left;
-    padding-left: 100px;
-}
+
 #footerdetails ul{
     display: flex; 
-    list-style: none;
-    padding-left: 100px;
-}
-#subscribe{
-    color: white;
 }
