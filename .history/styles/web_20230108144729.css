@@ -37,7 +37,6 @@ font-family: Arial, Helvetica, sans-serif;
     margin-right: 150px;
     margin-left: 82%;
     align-content: right;
-    border: none;
 }
 #sec2details{
     display: flex;
@@ -107,7 +106,6 @@ font-family: Arial, Helvetica, sans-serif;
     margin-left: 70px;
     align-content:left;
     color: rgb(20, 124, 165);
-    border: none;
     
 }
 .Footer{
@@ -156,5 +154,4 @@ font-family: Arial, Helvetica, sans-serif;
     margin-left: 100px;
     align-content:left;
     color:white;
-    border: none;
 }
