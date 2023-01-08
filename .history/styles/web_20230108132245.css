@@ -54,31 +54,26 @@ font-family: Arial, Helvetica, sans-serif;
 }
 #sec2text{
         text-align: justify;
-        margin-left:20%;
+        
         margin-top: 17%;
         margin-bottom: 20%;
 }
-#sec2details ul.text2,p.text2{
-    color:rgb(88, 81, 81);
-    font-size:10;
+#sec2text p{
+    text-align: left;
+    color: black;
+    text-decoration: justify;
 }
-.section3 h3{
-    text-align: center;
+.section3 h3,p{
+   text-align: center;
+}
+p{
+    color:rgb(88, 81, 81)
 }
 #sec3details{
     display: flex;
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 100px;
-}
-#sec3details p.text3{
-    color:rgb(88, 81, 81);
-    text-align: center;
-}
-#sec3details img.img3{
-    padding-left: 30%;
-    height: 50px;
-    width: 50px;
 }
 #mindset{
     margin-left: 100px;
@@ -115,7 +110,7 @@ font-family: Arial, Helvetica, sans-serif;
     background-color: black;
     display: flex;
 }
-#footerdetails h2{
+#footerdetails h2,p{
     padding-top: 10px;
     color: white;
     text-align:left;
@@ -123,5 +118,5 @@ font-family: Arial, Helvetica, sans-serif;
 }
 #footerdetails ul{
     display: flex;
-    
+    padding-left: 100px;
 }

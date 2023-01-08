@@ -65,20 +65,12 @@ font-family: Arial, Helvetica, sans-serif;
 .section3 h3{
     text-align: center;
 }
+
 #sec3details{
     display: flex;
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 100px;
-}
-#sec3details p.text3{
-    color:rgb(88, 81, 81);
-    text-align: center;
-}
-#sec3details img.img3{
-    padding-left: 30%;
-    height: 50px;
-    width: 50px;
 }
 #mindset{
     margin-left: 100px;
